@@ -54,6 +54,10 @@ Oh Hi There... I'm **Luke**. I love building websites, creating apps and designi
 
 ### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github.com/lukedunsmoto/lukedunsmoto/blob/master/github-metrics.svg" alt="Luke's Generated Metrics" width="100%">
+</div>
+
 ---
 
 <div align="center">
