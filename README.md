@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Luke%20Dunsmore&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Things%20in%20Manchester,%20UK&descAlignY=55&descAlign=62" width="100%"/>
-
   ### Freelance Web Designer & Developer | • • Funko Enthusiast | 🎢 Theme Park Geek | 📍 Manchester, UK
 
   <a href="https://github.com/lukedunsmoto">
